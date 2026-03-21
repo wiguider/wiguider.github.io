@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-About a decade working cross-functionally with national and international teams and stakeholders, with more than 6 years in Data Science Roles.
+12+ years working cross-functionally with national and international teams and stakeholders, building intelligent systems — from algorithmic fairness and recommender systems to autonomous agents and enterprise LLM platforms.
 
-- I have experience in Natural Language Processing, Recommendation and Search Systems, Algorithmic Fairness, among others.
+- I have experience in Large Language Models, AI Agents, Natural Language Processing, Recommendation and Search Systems, Algorithmic Fairness, among others.
 - I hold a PhD in Computer Science with a focus on Data Science, from the University of Cagliari.
 - Before being a Data Scientist I held different Software Engineering and Teaching positions.
 - My experience includes collaborating with international and cross-functional teams in Emirates, France, Italy, Morocco, and Spain.
@@ -20,10 +20,30 @@ About a decade working cross-functionally with national and international teams 
 
 ### Work Experience
 
-**Senior Consulting Data Scientist at Stackhouse**  
-*Apr 2022 – Apr 2024*  
+**Chief Technology Officer at Neural Factory S.R.L.**
+*Oct 2025 – Present*
 
-- Leading the design and development of data-driven solutions to help the marketing team of Stellantis design targeted marketing campaigns and tailored promotions.
+- Leading the technical vision of an AI platform company serving Italian manufacturing SMEs.
+- Designed a three-tier AI system combining knowledge graphs, conversational analytics, and autonomous agents for manufacturing digitization.
+- Building AI-powered systems for document processing automation and multi-agent orchestration using AWS serverless architectures.
+- Strategic partnerships with Alphabridge and Easynet Group.
+
+*Tools:* Python, LangChain, AWS (Lambda, S3, ECS), Docker, MongoDB, FastAPI, Git.
+
+**Senior Artificial Intelligence Engineer at FairMind S.R.L.**
+*Apr 2024 – Sep 2025, 1 year 6 months*
+
+- Led R&D of a generative AI platform for software development acceleration.
+- Designed production-ready LLM systems for code generation, built AI agents for complex problem-solving, developed model orchestration layers, and implemented guardrails for security and compliance.
+- Contributed open-source models to HuggingFace including Minerva-3B-Instruct and multilingual adaptations.
+- Provided technical mentoring to junior engineers.
+
+*Tools:* Python, PyTorch, LangChain, HuggingFace, AWS, Docker, FastAPI, Git.
+
+**Senior Data Scientist at Stackhouse**
+*Apr 2022 – Mar 2024, 2 years*
+
+- Led the design and development of data-driven marketing AI solutions for Stellantis across the Enlarged Europe region.
 - Led the design, development, and deployment of:
   - an Audience Classification system that increased conversion rate by more than 20% for all the brands of Stellantis in the Enlarged Europe region.
   - Accessories Recommendation engine to boost car accessories’ sales for all the brands of Stellantis in the Enlarged Europe region.

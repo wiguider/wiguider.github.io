@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Walid Iguider"
 title_separator: "-"
 name: &name "Walid Iguider, PhD"
-description: &description "Senior Data Scientist And Researcher"
+description: &description "CTO & AI Researcher"
 url: https://wiguider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "wiguider/wiguider.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name: "Walid Iguider"
   avatar: "https://avatars.githubusercontent.com/u/5427781?v=4"
-  bio: "Senior Data Scientist And Researcher"
+  bio: "CTO & AI Researcher"
   location: 
-  employer: "Stackhouse"
+  employer: "Neural Factory"
   googlescholar: "https://scholar.google.es/citations?user=2JXOz-kAAAAJ&hl=en"
   email:
   researchgate: https://www.researchgate.net/profile/Walid_Iguider2
