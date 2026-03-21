@@ -36,9 +36,9 @@
         - Designed a three-tier AI system combining knowledge graphs, conversational analytics, and autonomous agents for manufacturing digitization.
         - Building AI-powered systems for document processing automation and multi-agent orchestration using AWS serverless architectures.
         - Strategic partnerships with Alphabridge and Easynet Group.
-        - "title: Tools"
-        - "contents:"
-        - Python, LangChain, AWS (Lambda, S3, ECS), Docker, MongoDB, FastAPI, Git.
+        - title: Tools
+          contents:
+            - "Python, LangChain, AWS (Lambda, S3, ECS), Docker, MongoDB, FastAPI, Git."
 
     - title: Senior Artificial Intelligence Engineer
       institution: FairMind S.R.L.
@@ -95,22 +95,22 @@
       description:
         - title: Key projects
           contents:
-            - "In Volo con la Matematica" mobile app (100K+ Downloads).
-            - CIH Bank mobile banking application (1M+ Downloads).
-            - Led team of 5+ for Dubai Plus payments and deals app.
-            - Financial Information System for PMU (3rd largest pool betting company worldwide).
-            - Recruitment management web application for Alten Morocco.
+            - '"In Volo con la Matematica" mobile app (100K+ Downloads).'
+            - "CIH Bank mobile banking application (1M+ Downloads)."
+            - "Led team of 5+ for Dubai Plus payments and deals app."
+            - "Financial Information System for PMU (3rd largest pool betting company worldwide)."
+            - "Recruitment management web application for Alten Morocco."
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2019
       items:
-        - "2nd prize at HackaMOL 2019: Product Development for 'RoboSapiens: a distributed messaging system'."
+        - "2nd prize at HackaMOL 2019 for RoboSapiens, a distributed messaging system."
     - year: 2017
       items:
-        - "2nd prize at HackaMOL 2017: Artificial Intelligence for 'An Intelligent Modelling for Fire Prevention System'."
-        - "3rd place at 4th Semantic Web Evaluation Challenge (Task #1: Polarity Detection), SemWebEval 2017."
+        - "2nd prize at HackaMOL 2017 for An Intelligent Modelling for Fire Prevention System."
+        - "3rd place at 4th Semantic Web Evaluation Challenge (Polarity Detection), SemWebEval 2017."
 
 - title: Academic Interests
   type: nested_list
