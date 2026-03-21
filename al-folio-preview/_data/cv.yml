@@ -1,0 +1,129 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Walid Iguider, PhD
+    - name: Languages
+      value: Arabic, English, French, Italian
+    - name: Location
+      value: Cagliari, Italy
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science (Data Science)
+      institution: University of Cagliari, Italy
+      year: 2018 - 2022
+      description:
+        - "Research focus: Machine Learning for decision-making in sports remote coaching platforms"
+        - "Lab: Artificial Intelligence and Big Data Laboratory (AIBD)"
+        - "Collaborations: Abinsula Srl, Eurecat (Barcelona)"
+    - title: Master's in Software Quality
+      institution: Sidi Mohamed Ben Abdellah University, Fez, Morocco
+      year: 2010 - 2012
+    - title: Bachelor's in Mathematics and Computer Science
+      institution: University of Rabat (Mohammed V University), Morocco
+      year: 2007 - 2010
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Chief Technology Officer
+      institution: Neural Factory S.R.L.
+      year: Oct 2025 - Present
+      description:
+        - Leading the technical vision of an AI platform company serving Italian manufacturing SMEs.
+        - Designed a three-tier AI system combining knowledge graphs, conversational analytics, and autonomous agents for manufacturing digitization.
+        - Building AI-powered systems for document processing automation and multi-agent orchestration using AWS serverless architectures.
+        - Strategic partnerships with Alphabridge and Easynet Group.
+        - "title: Tools"
+        - "contents:"
+        - Python, LangChain, AWS (Lambda, S3, ECS), Docker, MongoDB, FastAPI, Git.
+
+    - title: Senior Artificial Intelligence Engineer
+      institution: FairMind S.R.L.
+      year: Apr 2024 - Sep 2025
+      description:
+        - Led R&D of a generative AI platform for software development acceleration.
+        - Designed production-ready LLM systems for code generation, built AI agents for complex problem-solving, developed model orchestration layers, and implemented guardrails for security and compliance.
+        - Contributed open-source models to HuggingFace including Minerva-3B-Instruct and multilingual adaptations.
+        - Provided technical mentoring to junior engineers.
+
+    - title: Senior Data Scientist
+      institution: Stackhouse (Spindox S.P.A.)
+      year: Apr 2022 - Mar 2024
+      description:
+        - Led the design and development of data-driven marketing AI solutions for Stellantis across the Enlarged Europe region.
+        - title: Key achievements
+          contents:
+            - Audience Classification system that increased conversion rate by more than 20% for all Stellantis brands in the Enlarged Europe region.
+            - Accessories Recommendation engine to boost car accessories' sales.
+            - Churn Prediction system to spot customers likely to buy from competitors.
+
+    - title: Senior Data Scientist
+      institution: Athlos S.r.l.
+      year: Oct 2021 - Apr 2022
+      description:
+        - Led the design and development of web applications, recommender systems, and digital assistants using Large Language Models.
+        - Led the development of a technological solution for the traceability and optimization of the waste management cycle (with Arkys).
+        - Deployed in production different Information Retrieval and Recommendation engines.
+
+    - title: R&D Data Scientist
+      institution: Artificial Intelligence and Big Data Laboratory (AIBD)
+      year: Jan 2018 - Oct 2021
+      description:
+        - title: Data Scientist at Abinsula (Feb 2020 – Oct 2021)
+          contents:
+            - Led design and development of ML SaaS products for U4FIT (100K+ Downloads).
+            - Helped U4FIT raise €211K funding, reduce 5x the workload of personal trainers.
+        - title: Data Scientist at Eurecat, Barcelona (Apr 2019 – Jan 2020)
+          contents:
+            - Designed Fairness and User Modeling algorithms for eHealth platforms.
+        - title: Data Scientist at AIBD (Jan 2018 – Apr 2019)
+          contents:
+            - Led user profiling and data visualization algorithms for the U4FIT platform.
+
+    - title: Data Scientist
+      institution: theShukran
+      year: Oct 2016 - Dec 2017
+      description:
+        - Designed, developed, and deployed in production user recommendation, face recognition, and sentiment analysis algorithms for the shukran social network (500K+ Downloads).
+
+    - title: Software Engineer
+      institution: Various companies (Morocco & Italy)
+      year: Sep 2012 - Oct 2016
+      description:
+        - title: Key projects
+          contents:
+            - "In Volo con la Matematica" mobile app (100K+ Downloads).
+            - CIH Bank mobile banking application (1M+ Downloads).
+            - Led team of 5+ for Dubai Plus payments and deals app.
+            - Financial Information System for PMU (3rd largest pool betting company worldwide).
+            - Recruitment management web application for Alten Morocco.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2019
+      items:
+        - "2nd prize at HackaMOL 2019: Product Development for 'RoboSapiens: a distributed messaging system'."
+    - year: 2017
+      items:
+        - "2nd prize at HackaMOL 2017: Artificial Intelligence for 'An Intelligent Modelling for Fire Prevention System'."
+        - "3rd place at 4th Semantic Web Evaluation Challenge (Task #1: Polarity Detection), SemWebEval 2017."
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Large Language Models & AI Agents
+      items:
+        - LLM-powered code generation and software development acceleration
+        - Multi-agent systems and autonomous orchestration
+    - title: Recommender Systems & Fairness
+      items:
+        - Fair performance-based recommendations in eCoaching
+        - User modeling and personalization
+    - title: Natural Language Processing
+      items:
+        - Sentiment analysis and multilingual NLP
+        - Knowledge graphs and conversational analytics
